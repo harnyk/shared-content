@@ -1,0 +1,8 @@
+{
+  "sourceFolder": "/home/mk/Documents/Obsidian/Main/$Z_Notes/CVs/Source of Truth",
+  "destFolder": "public",
+  "ghPages": {
+    "branch": "gh-pages",
+    "message": "Auto-deploy from build"
+  }
+}
