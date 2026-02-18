@@ -5,11 +5,12 @@ tags:
 # **Mark Harnyk**
 
 **Senior Backend Engineer (Remote)**  
-Building scalable cloud-native systems for high-load, distributed and revenue-critical platforms.  
+Building scalable cloud-native systems for high-load and revenue-critical platforms.  
 10+ years across PropTech, Event Tech, and Domain infrastructure.
 
-Poznań, Poland  
-[markharnyk@gmail.com](mailto:markharnyk@gmail.com)  
+Poznań, Poland
++48788540819
+[markharnyk@gmail.com](mailto:markharnyk@gmail.com)
 [https://www.linkedin.com/in/lets-do-it](https://www.linkedin.com/in/lets-do-it)
 
 ---
@@ -17,7 +18,7 @@ Poznań, Poland
 # Core Stack
 
 **Languages:** Node.js, TypeScript, Go  
-**Cloud & Architecture:** AWS (Lambda, SQS, SNS, Step Functions), Serverless, Kubernetes  
+**Cloud & Architecture:** AWS (Lambda, SQS, SNS, Step Functions), Serverless  
 **Data:** MongoDB, PostgreSQL, MySQL, Redis, DynamoDB  
 **DevOps & Delivery:** Docker, CI/CD (GitHub Actions, CircleCI, Jenkins)
 
@@ -47,9 +48,7 @@ Designed and delivered a fault-tolerant integration and publication platform for
 **Impact:**
 
 - Enabled reliable publishing of up to **10k listings per day** to external marketplaces
-    
-- Standardized large-scale data imports and multi-channel listing distribution
-    
+   
 - Reduced onboarding friction for enterprise clients
     
 - Turned integrations into a scalable growth driver
@@ -63,7 +62,7 @@ Delivered a scalable search system enabling instant full-text queries and advanc
 
 **Impact:**
 
-- Improved agent productivity in daily workflows
+- Improved real estate agent productivity in daily workflows
     
 - Reduced time-to-information and response latency
     
@@ -97,7 +96,7 @@ Domain: PropTech
 
 - Owned architecture of integration and search platforms
     
-- Delivered distributed systems supporting high-volume marketplace publishing
+- Delivered systems supporting high-volume marketplace publishing
     
 - Built ML-based recommendation capabilities
     
@@ -118,9 +117,11 @@ Domain: Event Management
 - Implemented passwordless authentication flows
     
 - Contributed to multi-tenant event website platform architecture
-    
 
-Tech: Node.js, TypeScript, React, Kubernetes
+- Worked with applications on Kubernetes infrastructure
+
+
+Tech: Node.js, TypeScript, React
 
 ---
 
