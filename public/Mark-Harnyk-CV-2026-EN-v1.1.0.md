@@ -8,9 +8,14 @@ tags:
 Building scalable cloud-native systems for high-load and revenue-critical platforms.  
 10+ years across PropTech, Event Tech, and Domain infrastructure.
 
+## Contacts
+
 Poznań, Poland
+
 +48788540819
+
 [markharnyk@gmail.com](mailto:markharnyk@gmail.com)
+
 [https://www.linkedin.com/in/lets-do-it](https://www.linkedin.com/in/lets-do-it)
 
 ---
