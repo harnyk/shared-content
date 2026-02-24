@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node scripts/build.js",
     "deploy": "node scripts/deploy.js",
-    "publish": "node scripts/build.js && node scripts/deploy.js"
+    "publish": "node scripts/build.js && node scripts/deploy.js",
+    "list": "node scripts/list.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,8 @@
   "packageManager": "pnpm@10.28.0",
   "devDependencies": {
     "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "semver": "^7.7.4"
   }
 }

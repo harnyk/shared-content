@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      semver:
+        specifier: ^7.7.4
+        version: 7.7.4
     devDependencies:
       gh-pages:
         specifier: ^6.3.0
@@ -177,6 +181,11 @@ packages:
 
   semver@6.3.1:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
+    hasBin: true
+
+  semver@7.7.4:
+    resolution: {integrity: sha512-vFKC2IEtQnVhpT78h1Yp8wzwrf8CM+MzKMHGJZfBtzhZNycRFnXsHk6E5TxIkkMsgNS7mdX3AGB7x2QM2di4lA==}
+    engines: {node: '>=10'}
     hasBin: true
 
   slash@3.0.0:
@@ -359,6 +368,8 @@ snapshots:
       queue-microtask: 1.2.3
 
   semver@6.3.1: {}
+
+  semver@7.7.4: {}
 
   slash@3.0.0: {}
 
